@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container {
+  height: 120px;
+  width: 50px;
+  border: 1px solid black;
+  padding: 11px;
+  border-radius: 2px;
+}
+.light {
+  height: 20px;
+  width: 40px;
+  border-radius: 50%;
+  margin: 10px 0px;
+  padding: 5px;
+}
